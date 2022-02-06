@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Sami Huhtala\Documents\Aalto\cpp_kurssi\Project7\angry_birds\angry_birds\main.cpp(109,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sami Huhtala\Documents\Aalto\cpp_kurssi\Project7\angry_birds\angry_birds\main.cpp(109,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  angry_birds.vcxproj -> C:\Users\Sami Huhtala\Documents\Aalto\cpp_kurssi\Project7\angry_birds\Debug\angry_birds.exe
